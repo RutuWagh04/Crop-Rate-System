@@ -10,7 +10,7 @@ The system helps farmers make informed decisions by offering real-time crop rate
 
 ## **Key Features**
 
-### **Admin Module**
+### **Admin Module***
 
 * User & Role Management (Farmers, Market Analysts, Buyers)
 * Crop Category & Subcategory Management
